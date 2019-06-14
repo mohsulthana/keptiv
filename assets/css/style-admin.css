@@ -1,0 +1,52 @@
+.label-acceptfor{
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    margin-right: 12px;
+}
+#acceptfor input[type="checkbox"]{
+    cursor: pointer;
+    /* -webkit-appearance: none;
+    appearance: none; */
+    /* background: #34495E; */
+    border: 2px solid #2ECC71;
+    border-radius: 3.5px;
+    box-sizing: border-box;
+    position: relative;
+    box-sizing: content-box ;
+    width: 16px;
+    height: 16px;
+    border-width: 0;
+    transition: all .3s linear;
+    }
+#acceptfor input[type="checkbox"]:checked{
+    background-color: #2ECC71;
+}
+#acceptfor input[type="checkbox"]:focus{
+    outline: 0 none;
+    box-shadow: none;
+}
+#acceptfor.acceptfor-between{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.label-seoSection{
+    width: 100%;
+    padding: 8px;
+    text-align: center;
+    background: #00c0ef;
+    color: #fff;
+    border-radius: 5px;
+    letter-spacing: .2pt;
+}
+.btn-publishBerita{
+    width: 100%;
+    margin-top: 16px;
+}
+.tags-input div{
+    width: 100%;
+    max-width: unset;
+    border-radius: 0;
+    box-shadow: none;   
+}

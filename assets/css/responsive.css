@@ -1,0 +1,12 @@
+@media screen and (max-width:767px){
+    .bg-slider{
+        padding: 0 32px 20px 32px !important;
+        height: unset;
+    }
+    .arrowPrev-sorotanHome{
+        left: 26px !important;
+    }
+    .arrowNext-sorotanHome{
+        right: 26px !important;
+    }
+}

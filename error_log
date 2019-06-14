@@ -1,0 +1,1 @@
+[04-May-2019 23:17:35 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'template/navbar.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/sebuahla/public_html/application/views/deskripsi.php on line 20
